@@ -5,9 +5,9 @@ The Filenames show for which material the configuration is.
 Enjoy them!
 
 You can find me here:
-http://www.thingiverse.com/kolbersde/about
-https://twitter.com/epcundmehr
-http://3dhub.kolbers.de
-https://pinshape.com/users/116215-kolbersde-3d
-http://crowdprinter.de/profil/kolbersde
-https://plus.google.com/114143857396926021333
+http://www.thingiverse.com/kolbersde/about <br>
+https://twitter.com/epcundmehr <br>
+http://3dhub.kolbers.de <br>
+https://pinshape.com/users/116215-kolbersde-3d <br>
+http://crowdprinter.de/profil/kolbersde <br>
+https://plus.google.com/114143857396926021333 <br>
